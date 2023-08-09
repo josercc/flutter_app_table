@@ -2,6 +2,7 @@ name: flutter_app_table
 description: A new Flutter package project.
 version: 0.1.0
 homepage: https://github.com/josercc/flutter_app_table
+publish_to: https://pub.dev
 
 environment:
   sdk: ">=2.16.2 <3.0.0"
