@@ -1,8 +1,7 @@
 name: flutter_app_table
-description: A new Flutter package project.
+description: 一款封装系统 Table 的自用的Flutter 表格组件.
 version: 0.1.0
 homepage: https://github.com/josercc/flutter_app_table
-publish_to: https://pub.dev
 
 environment:
   sdk: ">=2.16.2 <3.0.0"
